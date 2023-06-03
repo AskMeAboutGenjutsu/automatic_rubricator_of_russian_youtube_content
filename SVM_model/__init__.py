@@ -1,0 +1,1 @@
+from SVM_model.support_vector_machine import get_topic
