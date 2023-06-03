@@ -14,8 +14,6 @@ from get_vector_from_pretrain_w2v import get_vector
 from preprocess_data import preprocess
 from parsing_data import parse_data
 
-# 'AIzaSyD-Bb-ocO7GoOkk_xCX5ET49JzQkeLz8PM' AIzaSyADs9mox_xJPv6GYPDlB3g5mhIAmH7gzgo
-
 
 def initial():
     api_key_url = 'https://console.cloud.google.com/apis/dashboard?project=midyear-choir-384317'
